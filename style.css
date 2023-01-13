@@ -1,0 +1,17 @@
+body{
+    font-size: 30px;
+    color: darkblue;
+}
+h1{
+    color: blueviolet;
+    padding: 20px;
+    margin: 30 px;
+    text-align: center;
+}
+h2 {
+    color: aquamarine;
+    text-align: center;
+}
+ul.li {
+    text-align: left;
+}
